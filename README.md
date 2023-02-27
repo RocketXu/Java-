@@ -2,7 +2,7 @@
 用于Java 深度学习使用，记录日常学习。
 
 
-[1.java基础](../1.java-base/java-base.md)
+[1.java基础](../Java-DeepLearning/docs/1.java-base/java基础知识点.md)
 
 [2.java SPI机制](../Java-DeepLearning/docs/2.SPI机制/SPI机制详解.md)
 
