@@ -6,9 +6,9 @@
 - [详解-Java值传递](../Java-DeepLearning/docs/1.java-base/详解-Java值传递.md)
 - [详解-序列化和反序列化](../Java-DeepLearning/docs/1.java-base/详解-序列化和反序列化.md)
 - [详解-反射](../Java-DeepLearning/docs/1.java-base/详解-反射.md)
-
 - [详解-BigDecimal](../Java-DeepLearning/docs/1.java-base/详解-BigDecimal.md)
-  
+- [详解-魔法类Unsafe](../Java-DeepLearning/docs/1.java-base/详解-魔法类Unsafe.md)
+---
 [2.java SPI机制](../Java-DeepLearning/docs/2.SPI机制/SPI机制详解.md)
 
 
