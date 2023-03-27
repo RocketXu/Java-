@@ -1,20 +1,30 @@
 # Java-DeepLearning
 用于Java 深度学习使用，记录日常学习。
 
+---
 
-[1.java基础](../Java-DeepLearning/docs/1.java-base/java基础知识点.md)  
+1. java基础
+- [java基础](../Java-DeepLearning/docs/1.java-base/java基础知识点.md)  
 - [详解-Java值传递](../Java-DeepLearning/docs/1.java-base/详解-Java值传递.md)
 - [详解-序列化和反序列化](../Java-DeepLearning/docs/1.java-base/详解-序列化和反序列化.md)
 - [详解-反射](../Java-DeepLearning/docs/1.java-base/详解-反射.md)
 - [详解-BigDecimal](../Java-DeepLearning/docs/1.java-base/详解-BigDecimal.md)
 - [详解-魔法类Unsafe](../Java-DeepLearning/docs/1.java-base/详解-魔法类Unsafe.md)
+
 ---
-[2.java SPI机制](../Java-DeepLearning/docs/2.SPI机制/SPI机制详解.md)
+2. Java SPI机制
+
+- [java SPI机制](../Java-DeepLearning/docs/2.SPI机制/SPI机制详解.md)
+
+---
+
+3. 集合
+
+- [集合知识点汇总](../Java-DeepLearning/docs/3.合集/Java集合知识点.md)
 
 
 
-
-
+---
 [日常项目实战问题总结](./docs/dailyDev/dailyDev.md)
 
 - [缓存实践](./docs/dailyDev/%E7%BC%93%E5%AD%98%E5%AE%9E%E8%B7%B5/%E7%BC%93%E5%AD%98%E5%AE%9E%E8%B7%B5.md)
