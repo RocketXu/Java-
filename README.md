@@ -10,9 +10,10 @@
 - [详解-反射](../Java-DeepLearning/docs/1.java-base/详解-反射.md)
 - [详解-BigDecimal](../Java-DeepLearning/docs/1.java-base/详解-BigDecimal.md)
 - [详解-魔法类Unsafe](../Java-DeepLearning/docs/1.java-base/详解-魔法类Unsafe.md)
+- [详解-魔法类Unsafe](../Java-DeepLearning/docs/1.java-base/Java8新特性.md)
 
 ---
-2. Java SPI机制
+1. Java SPI机制
 
 - [java SPI机制](../Java-DeepLearning/docs/2.SPI机制/SPI机制详解.md)
 
@@ -21,7 +22,7 @@
 3. 集合
 
 - [集合知识点汇总](../Java-DeepLearning/docs/3.合集/Java集合知识点.md)
-
+- [集合知识点汇总](../Java-DeepLearning/docs/3.合集/容器使用注意事项.md)
 
 
 ---
