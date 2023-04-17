@@ -4,7 +4,7 @@
 ---
 
 1. java基础
-- [java基础](../Java-DeepLearning/docs/1.java-base/java基础知识点.md)  
+- [java基础](../Java-DeepLearning/docs/1.java-base/java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E7%82%B9.md)  
 - [详解-Java值传递](../Java-DeepLearning/docs/1.java-base/详解-Java值传递.md)
 - [详解-序列化和反序列化](../Java-DeepLearning/docs/1.java-base/详解-序列化和反序列化.md)
 - [详解-反射](../Java-DeepLearning/docs/1.java-base/详解-反射.md)
