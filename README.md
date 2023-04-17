@@ -4,13 +4,13 @@
 ---
 
 1. java基础
-- [java基础](../Java-DeepLearning/docs/1.java-base/java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E7%82%B9.md)  
-- [详解-Java值传递](../Java-DeepLearning/docs/1.java-base/%E8%AF%A6%E8%A7%A3-Java%E5%80%BC%E4%BC%A0%E9%80%92.md)
-- [详解-序列化和反序列化](../Java-DeepLearning/docs/1.java-base/%E8%AF%A6%E8%A7%A3-%E5%BA%8F%E5%88%97%E5%8C%96%E5%92%8C%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96.md)
-- [详解-反射](../Java-DeepLearning/docs/1.java-base/%E8%AF%A6%E8%A7%A3-%E5%8F%8D%E5%B0%84.md)
-- [详解-BigDecimal](../Java-DeepLearning/docs/1.java-base/%E8%AF%A6%E8%A7%A3-BigDecimal.md)
-- [详解-魔法类Unsafe](../Java-DeepLearning/docs/1.java-base/%E8%AF%A6%E8%A7%A3-%E9%AD%94%E6%B3%95%E7%B1%BBUnsafe.md)
-- [详解-Java8新特性](../Java-DeepLearning/docs/1.java-base/Java8%E6%96%B0%E7%89%B9%E6%80%A7.md)
+- [java基础](./docs/1.java-base/java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E7%82%B9.md)  
+- [详解-Java值传递](./docs/1.java-base/%E8%AF%A6%E8%A7%A3-Java%E5%80%BC%E4%BC%A0%E9%80%92.md)
+- [详解-序列化和反序列化](./docs/1.java-base/%E8%AF%A6%E8%A7%A3-%E5%BA%8F%E5%88%97%E5%8C%96%E5%92%8C%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96.md)
+- [详解-反射](./docs/1.java-base/%E8%AF%A6%E8%A7%A3-%E5%8F%8D%E5%B0%84.md)
+- [详解-BigDecimal](./docs/1.java-base/%E8%AF%A6%E8%A7%A3-BigDecimal.md)
+- [详解-魔法类Unsafe](./docs/1.java-base/%E8%AF%A6%E8%A7%A3-%E9%AD%94%E6%B3%95%E7%B1%BBUnsafe.md)
+- [详解-Java8新特性](./docs/1.java-base/Java8%E6%96%B0%E7%89%B9%E6%80%A7.md)
 
 ---
 1. Java SPI机制
