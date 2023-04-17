@@ -23,6 +23,7 @@
 
 - [集合知识点汇总](../Java-DeepLearning/docs/3.合集/Java集合知识点.md)
 - [集合知识点汇总](../Java-DeepLearning/docs/3.合集/容器使用注意事项.md)
+- [容器源码+扩容机制](../Java-DeepLearning/docs/3.合集/容器源码+扩容机制.md)
 
 
 ---
