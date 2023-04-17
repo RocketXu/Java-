@@ -15,19 +15,19 @@
 ---
 1. Java SPI机制
 
-- [java SPI机制](../Java-DeepLearning/docs/2.SPI%E6%9C%BA%E5%88%B6/SPI%E6%9C%BA%E5%88%B6%E8%AF%A6%E8%A7%A3.md)
+- [java SPI机制](./docs/2.SPI%E6%9C%BA%E5%88%B6/SPI%E6%9C%BA%E5%88%B6%E8%AF%A6%E8%A7%A3.md)
 
 ---
 
 1. 集合
    
 
-- [集合知识点汇总](../Java-DeepLearning/docs/3.%E5%90%88%E9%9B%86/Java%E9%9B%86%E5%90%88%E7%9F%A5%E8%AF%86%E7%82%B9.md)
-- [容器使用注意事项](../Java-DeepLearning/docs/3.%E5%90%88%E9%9B%86/%E5%AE%B9%E5%99%A8%E4%BD%BF%E7%94%A8%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.md)
-- [容器源码+扩容机制](../Java-DeepLearning/docs/3.%E5%90%88%E9%9B%86/%E5%AE%B9%E5%99%A8%E6%BA%90%E7%A0%81%2B%E6%89%A9%E5%AE%B9%E6%9C%BA%E5%88%B6.md)
+- [集合知识点汇总](./docs/3.%E5%90%88%E9%9B%86/Java%E9%9B%86%E5%90%88%E7%9F%A5%E8%AF%86%E7%82%B9.md)
+- [容器使用注意事项](./docs/3.%E5%90%88%E9%9B%86/%E5%AE%B9%E5%99%A8%E4%BD%BF%E7%94%A8%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.md)
+- [容器源码+扩容机制](./docs/3.%E5%90%88%E9%9B%86/%E5%AE%B9%E5%99%A8%E6%BA%90%E7%A0%81%2B%E6%89%A9%E5%AE%B9%E6%9C%BA%E5%88%B6.md)
 
 1. IO
-- [IO基础](../Java-DeepLearning/docs/4.IO/IO%E5%9F%BA%E7%A1%80.md)
+- [IO基础](./docs/4.IO/IO%E5%9F%BA%E7%A1%80.md)
 
 
 ---
