@@ -5,28 +5,28 @@
 
 1. java基础
 - [java基础](../Java-DeepLearning/docs/1.java-base/java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E7%82%B9.md)  
-- [详解-Java值传递](../Java-DeepLearning/docs/1.java-base/详解-Java值传递.md)
-- [详解-序列化和反序列化](../Java-DeepLearning/docs/1.java-base/详解-序列化和反序列化.md)
-- [详解-反射](../Java-DeepLearning/docs/1.java-base/详解-反射.md)
-- [详解-BigDecimal](../Java-DeepLearning/docs/1.java-base/详解-BigDecimal.md)
-- [详解-魔法类Unsafe](../Java-DeepLearning/docs/1.java-base/详解-魔法类Unsafe.md)
-- [详解-魔法类Unsafe](../Java-DeepLearning/docs/1.java-base/Java8新特性.md)
+- [详解-Java值传递](../Java-DeepLearning/docs/1.java-base/%E8%AF%A6%E8%A7%A3-Java%E5%80%BC%E4%BC%A0%E9%80%92.md)
+- [详解-序列化和反序列化](../Java-DeepLearning/docs/1.java-base/%E8%AF%A6%E8%A7%A3-%E5%BA%8F%E5%88%97%E5%8C%96%E5%92%8C%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96.md)
+- [详解-反射](../Java-DeepLearning/docs/1.java-base/%E8%AF%A6%E8%A7%A3-%E5%8F%8D%E5%B0%84.md)
+- [详解-BigDecimal](../Java-DeepLearning/docs/1.java-base/%E8%AF%A6%E8%A7%A3-BigDecimal.md)
+- [详解-魔法类Unsafe](../Java-DeepLearning/docs/1.java-base/%E8%AF%A6%E8%A7%A3-%E9%AD%94%E6%B3%95%E7%B1%BBUnsafe.md)
+- [详解-Java8新特性](../Java-DeepLearning/docs/1.java-base/Java8%E6%96%B0%E7%89%B9%E6%80%A7.md)
 
 ---
 1. Java SPI机制
 
-- [java SPI机制](../Java-DeepLearning/docs/2.SPI机制/SPI机制详解.md)
+- [java SPI机制](../Java-DeepLearning/docs/2.SPI%E6%9C%BA%E5%88%B6/SPI%E6%9C%BA%E5%88%B6%E8%AF%A6%E8%A7%A3.md)
 
 ---
 
-3. 集合
+1. 集合
 
-- [集合知识点汇总](../Java-DeepLearning/docs/3.合集/Java集合知识点.md)
-- [集合知识点汇总](../Java-DeepLearning/docs/3.合集/容器使用注意事项.md)
-- [容器源码+扩容机制](../Java-DeepLearning/docs/3.合集/容器源码+扩容机制.md)
+- [集合知识点汇总](../Java-DeepLearning/docs/3.%E5%90%88%E9%9B%86/Java%E9%9B%86%E5%90%88%E7%9F%A5%E8%AF%86%E7%82%B9.md)
+- [容器使用注意事项](../Java-DeepLearning/docs/3.%E5%90%88%E9%9B%86/%E5%AE%B9%E5%99%A8%E4%BD%BF%E7%94%A8%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.md)
+- [容器源码+扩容机制](../Java-DeepLearning/docs/3.%E5%90%88%E9%9B%86/%E5%AE%B9%E5%99%A8%E6%BA%90%E7%A0%81%2B%E6%89%A9%E5%AE%B9%E6%9C%BA%E5%88%B6.md)
 
-4. IO
-- [IO基础](../Java-DeepLearning/docs/4.IO/IO基础.md)
+1. IO
+- [IO基础](../Java-DeepLearning/docs/4.IO/IO%E5%9F%BA%E7%A1%80.md)
 
 
 ---
