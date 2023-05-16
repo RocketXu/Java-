@@ -28,8 +28,7 @@
 
 1. IO
 - [IO基础](./docs/4.IO/IO%E5%9F%BA%E7%A1%80.md)
-
-
+- [IO中的设计模式](./docs/4.IO/IO设计模式.md)
 ---
 [日常项目实战问题总结](./docs/dailyDev/dailyDev.md)
 
